@@ -1,1 +1,1 @@
-# netology_sys24
+GIT, Фролов И.Р., SYS-24
