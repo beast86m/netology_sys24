@@ -12,4 +12,8 @@ GIT, Фролов И.Р., SYS-24
 ![IMG](https://github.com/beast86m/netology_sys24/raw/main/img7.png)
 
 Задание 2
+
 ![IMG](https://github.com/beast86m/netology_sys24/raw/main/l2img1.png)
+
+Задание 3
+
