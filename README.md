@@ -9,3 +9,4 @@ GIT, Фролов И.Р., SYS-24
 ![IMG](https://github.com/beast86m/netology_sys24/raw/main/img4.png)
 ![IMG](https://github.com/beast86m/netology_sys24/raw/main/img5.png)
 ![IMG](https://github.com/beast86m/netology_sys24/raw/main/img6.png)
+![IMG](https://github.com/beast86m/netology_sys24/raw/main/img7.png)
